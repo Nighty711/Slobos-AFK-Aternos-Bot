@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "Gactzca-eKWC.aternos.me",
+    "port": 54741,
+    "version": "1.19.4",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
